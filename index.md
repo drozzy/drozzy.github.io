@@ -1,29 +1,16 @@
-## Welcome to GitHub Pages
+## Andriy Drozdyuk
 
-You can use the [editor on GitHub](https://github.com/drozzy/drozzy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Photo](https://pbs.twimg.com/profile_images/1016495797045690368/HtWmc_L7_400x400.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a machine learning programmer at National Research Council of Canada and a PhD student at Carleton University.
 
-### Markdown
+You can find me at:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Twitter](https://twitter.com/andriyko) 
+- [Youtube](https://www.youtube.com/user/vvindstalker)
+- [StackOverflow](https://stackoverflow.com/users/74865/andriy-drozdyuk)
+- [Publications Google Scholar](https://scholar.google.com/citations?user=bJGb9Z8AAAAJ&hl=en&oi=ao)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
