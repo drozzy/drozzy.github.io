@@ -2,7 +2,7 @@
 
 ![Photo](https://pbs.twimg.com/profile_images/1016495797045690368/HtWmc_L7_200x200.jpg)
 
-I am a machine learning programmer at National Research Council of Canada and a PhD student at Carleton University.
+I am a Machine Learning programmer at National Research Council of Canada and a PhD student at Carleton University.
 
 You can find me at:
 
